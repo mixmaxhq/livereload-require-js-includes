@@ -1,0 +1,24 @@
+{
+  "name": "livereload-require-js-includes",
+  "version": "1.0.0",
+  "description": "LiveReload plugin that only reloads the page when JS changes if that JS is included on the page.",
+  "main": "index.js",
+  "scripts": {
+    "test": "open spec/jasmine.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mixmaxhq/livereload-require-js-includes.git"
+  },
+  "keywords": [
+    "livereload",
+    "js",
+    "plugin"
+  ],
+  "author": "Jeff Wear <jeff@mixmax.com> (https://mixmax.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mixmaxhq/livereload-require-js-includes/issues"
+  },
+  "homepage": "https://github.com/mixmaxhq/livereload-require-js-includes#readme"
+}
