@@ -8,7 +8,7 @@
     this.window = window;
   }
 
-  RequireJSIncludes.identifier = 'com.mixmax.livereloadplugin.conditionaljsreload';
+  RequireJSIncludes.identifier = 'com.mixmax.livereloadplugin.requirejsincludes';
 
   RequireJSIncludes.version = '1.0';
 
