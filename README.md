@@ -56,4 +56,5 @@ Please lint your code.
 
 ## Release History
 
+* 1.0.1 Fix identifier.
 * 1.0.0 Initial release.
