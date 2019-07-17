@@ -1,5 +1,5 @@
 {
-  "name": "livereload-require-js-includes",
+  "name": "@mixmaxhq/livereload-require-js-includes",
   "version": "1.0.1",
   "description": "LiveReload plugin that only reloads the page when JS changes if that JS is included on the page.",
   "main": "index.js",
