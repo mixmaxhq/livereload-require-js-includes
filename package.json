@@ -3,6 +3,9 @@
   "version": "1.0.1",
   "description": "LiveReload plugin that only reloads the page when JS changes if that JS is included on the page.",
   "main": "index.js",
+  "files": [
+    "index.js"
+  ],
   "scripts": {
     "test": "open spec/jasmine.html"
   },
